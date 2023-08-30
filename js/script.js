@@ -1,6 +1,6 @@
 const instagramPostsContainer = document.getElementById("instagram-posts");
 const accessToken =
-  "IGQWROQUNwMnBYcFhpUTlLSlF5MVJ6UzI1UGxvdGVOaWZA5T21NdFpGLTNDRGNFTURYS1lQVXd5eWY5Sm1LUXBYUE5RZA05pbFJiUFFieXZAhZA3V5M3YzUFA2akZAoQ3ZALYjVUYXNOd043c3BTNW1GNUF3cUtVT0FuaUkZD"; // Ganti dengan token akses Anda
+  "IGQWRQYTlBaEpGcHVtak1PQXFqWDVGbWlBaEFmTk9XakZAlOUxJZAkZAKdTlxdm8teGxlSG5qSXI5VnpVeE9GTDVmbjUtaHNvN2VxOVAzcHZAyNm9YM0F3SENPdWVGRW5RbkUyUVZAuMHFrMFIwekJQZATRFYWJYbVhnaFUZD"; // Ganti dengan token akses Anda
 
 async function fetchInstagramPosts() {
   try {
